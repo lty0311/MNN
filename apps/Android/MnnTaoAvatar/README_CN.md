@@ -52,6 +52,9 @@ cd apps/Android/MnnTaoAvatar
 ./gradlew installDebug
 ```
 
+./gradlew assembleDebug	编译Debug版本的APK	项目根目录/app/build/outputs/apk/debug/
+./gradlew assembleRelease	编译Release版本的APK (如需正式发布或测试签名包)
+
 
 ## Releases
 ## Version 0.0.1
